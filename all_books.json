@@ -1,0 +1,20 @@
+{
+    "102": {
+        "title": "life",
+        "author": "smt",
+        "category": "philosophy",
+        "copies": 2
+    },
+    "103": {
+        "title": "vision",
+        "author": "smt",
+        "category": "action",
+        "copies": 2
+    },
+    "101": {
+        "title": "love",
+        "author": "smt",
+        "category": "philosophy",
+        "copies": 3
+    }
+}
